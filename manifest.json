@@ -1,0 +1,22 @@
+{
+  "name": "Minecraft Creative Web",
+  "short_name": "MC Creative",
+  "start_url": "./index-m.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#261910",
+  "theme_color": "#261910",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.20.1/blocks/grass_block_side.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/PrismarineJS/minecraft-assets@master/data/1.20.1/blocks/grass_block_side.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
